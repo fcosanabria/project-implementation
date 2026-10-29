@@ -1,11 +1,13 @@
-Este es un proyecto de implementacion para mi aprendizaje en AWS en entornos de producción. El objetivo principal es crear una infraestructura escalable y segura utilizando los servicios de AWS, como EC2, S3, RDS, EKS, Terraform, OpenTelemetry, alerting y monitoreo entre otros. A través de este proyecto, espero adquirir experiencia práctica en la configuración y management de recursos en AWS. 
+# AWS in Production
 
-Consiste en hacer un deploy de una aplicacion/plataforma web en Kubernetes, utilizando Terraform para el manejo de infraestructura que asemeje un entorno de producción real. Tomando ideas y deciones que he aprendido durante los anos, como SRE y Cloud Engineer y aplicar buenas practicas de diseño de infraestructura. 
+This is an implementation project to help me learn about AWS in production environments. The main goal is to build scalable, secure infrastructure using AWS services such as EC2, S3, RDS, EKS, Terraform, OpenTelemetry, alerting, and monitoring, among others. Through this project, I hope to gain hands-on experience configuring and managing resources in AWS.
 
-Es un repositorio que va ir cambiando a medida que vaya aprendiendo y aplicando nuevas tecnologías y mejores prácticas en la nube. La idea es documentar cada paso del proceso, desde la planificación hasta la implementación, para tener un registro claro de lo aprendido y poder compartirlo con otros interesados en el tema.
+The project involves deploying a web application/platform on Kubernetes and using Terraform to manage infrastructure that resembles a real production environment. I'll draw on ideas and decisions I've learned over the years as an SRE and Cloud Engineer and apply infrastructure design best practices.
 
-En mi blog se encuentra basicamente las experiencias que voy teniendo en este proceso de aprendizaje. 
+This repository will evolve as I learn and adopt new technologies and cloud best practices. The idea is to document every step of the process, from planning through implementation, so I have a clear record of what I've learned and can share it with others who are interested in the topic.
+
+My blog is where I share the experiences I have along the way as I learn.
 
 Blog: https://blog.fcosanabria.com
 
-Eventualmente voy a ir agregando mas detalles y ejemplos de codigo en este repositorio.
+Over time, I'll add more details and code examples to this repository.
